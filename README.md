@@ -10,12 +10,12 @@ Proje sayfasının arka planı tam ekran bir gradient palette kullanılmıştır
 
 # Ekran Videosu
 
-
+https://user-images.githubusercontent.com/84860191/194933528-f270f691-6985-42ce-9cb0-45376456e2f0.mp4
 
 # Ekran Görüntüsü
 
-
-
+![1](https://user-images.githubusercontent.com/84860191/194933582-3afd4cf2-dde8-43c3-907c-08ac0ef4bd5a.png)
+![2](https://user-images.githubusercontent.com/84860191/194933601-90c0b45a-2e9e-4ff4-9f3f-fc013d426166.png)
 
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
